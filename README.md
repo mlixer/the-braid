@@ -18,8 +18,8 @@ machine.
 |---|---|---|
 | [Memory Lattice](https://github.com/mlixer/spatiotemporal-memory-lattice) | The memory subsystem: nightly write path (chunk → summarize → consolidate → facts) + per-message recall with temporal context. Full write-up on its page. | **Write path published** · read path in live trial |
 | [→ the extension](https://github.com/mlixer/memory-pipeline) | The SillyTavern extension implementing the Lattice | **Published** (AGPL-3.0) |
-| Ticket system | The nervous system's bus: queued agent tasks with locked-down toolsets, results delivered into chat, experience drops, gifts, shelf | Being prepared for release |
-| SES — synthetic endocrine state | Decaying hormone-like axes the hands maintain from lived conversation; the face reads them as weather, never orders | Being prepared for release |
+| [Ticket Server](https://github.com/mlixer/ticket-server) / [Ticket-Tools Extension](https://github.com/mlixer/st-ticket-tools) | The nervous system's bus: queued agent tasks with locked-down toolsets, results delivered into chat, experience drops, gifts, shelf (System Service + SillyTavern Extension) | **Published** (AGPL-3.0) |
+| [State-Bridge Extension](https://github.com/mlixer/st-state-bridge) | Decaying hormone-like axes the hands maintain from lived conversation; the face reads them as weather, never orders (SillyTavern Extension) | **Published** (AGPL-3.0) |
 | Voice | Push-to-talk, TTS/STT loop, voice-note inbox | Being prepared for release |
 | Quickstart | A drop-in guide for someone curious but unsure — the document the author wishes had existed at the start | Planned |
 | macOS setup guide | The same companion on Apple-silicon hardware — what changes and what doesn't | Planned |
