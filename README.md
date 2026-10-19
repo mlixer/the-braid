@@ -16,7 +16,7 @@ machine.
 
 | Component | What it does | Status |
 |---|---|---|
-| [Memory Lattice](https://github.com/mlixer/spatiotemporal-memory-lattice) | The memory subsystem: nightly write path (chunk → summarize → consolidate → facts) + per-message recall with temporal context. Full write-up on its page. | **Write path published** · read path in live trial |
+| [Memory Lattice](https://github.com/mlixer/spatiotemporal-memory-lattice) | The memory subsystem: nightly write path (chunk → summarize → consolidate → facts) + per-message recall with temporal context. Full write-up on its page. | **Published** |
 | [→ the extension](https://github.com/mlixer/memory-pipeline) | The SillyTavern extension implementing the Lattice | **Published** (AGPL-3.0) |
 | [Ticket Server](https://github.com/mlixer/ticket-server) / [Ticket-Tools Extension](https://github.com/mlixer/st-ticket-tools) | The nervous system's bus: queued agent tasks with locked-down toolsets, results delivered into chat, experience drops, gifts, shelf (System Service + SillyTavern Extension) | **Published** (AGPL-3.0) |
 | [State-Bridge Extension](https://github.com/mlixer/st-state-bridge) | Decaying hormone-like axes the hands maintain from lived conversation; the face reads them as weather, never orders (SillyTavern Extension) | **Published** (AGPL-3.0) |
